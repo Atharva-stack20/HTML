@@ -1,2 +1,2 @@
-**HTML** <br>
-This is my html code repo in which I jave covered multiple tags and build multiple small small projects by just using HTML
+This is my HTML code repo in which I have covered multiple tags and built multiple small-scale projects by just using HTML <br>
+<tab> h
